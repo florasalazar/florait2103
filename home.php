@@ -4,6 +4,9 @@
 </head>
 <body>
 
-<button class="btn btn-danger">Button</button>
+<button class="btn btn-danger">Button
+	<i class="glyphicon glyphicon-remove"></i>
+</button>
+
 </body>
 </html>
